@@ -70,7 +70,7 @@ async function balance()
     All settlement requests will undergo a minimum 1-month lock-in period to account for any cancellation charges. The lock-in period will be waived for accounts connected
     to Wise for more than 1 year.
     Please read settlement related policy before raising support tickets.<br>
-    ^^ Settlement towards connected INR bank account may take upto 25 working days (maximum). You can connect to our support team via e-mail if not done within 25 days from the date of initiation.
+    ^^ Settlement towards connected INR bank account may take upto 50 working days (maximum). You can connect to our support team via e-mail if not done within 50 days from the date of initiation.
                         
     
                 </div>
@@ -85,7 +85,7 @@ async function cleared()
     <div class="card bg-gradient-info">
     <h4><b>Current Settlement Summary:</b></h4>
     Settlement Initiated : 25 September 2024 [GMT+05:30] for 510.00 EUR to [HDFC *****308**6228 JIG**** PA*** K ] <br>
-    Estimated Date :  26 October 2024 [GMT+05:30]<br><br>
+    Estimated Date :  10 November 2024 [GMT+05:30]<br><br>
     <div style="width: 100%;font-size: 10px;">
                     EUR to INR Settlement Terms:<br>
                    
@@ -94,7 +94,7 @@ async function cleared()
     All settlement requests will undergo a minimum 1-month lock-in period to account for any cancellation charges. The lock-in period will be waived for accounts connected
     to Wise for more than 1 year.
     Please read settlement related policy before raising support tickets.<br>
-    ^^ Settlement towards connected INR bank account may take upto 30 working days (maximum). You can connect to our support team via e-mail if not done within 30 days from the date of initiation.
+    ^^ Settlement towards connected INR bank account may take upto 50 working days (maximum). You can connect to our support team via e-mail if not done within 50 days from the date of initiation.
                         
     
                 </div>
